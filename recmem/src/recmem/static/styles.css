@@ -1,0 +1,5 @@
+#dashboard { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; padding: 20px; }
+section { border: 1px solid #ccc; padding: 10px; height: 300px; overflow-y: auto; }
+.event { margin-bottom: 8px; font-family: monospace; }
+.constraint-active { color: red; font-weight: bold; }
+.constraint-resolved { color: green; text-decoration: line-through; }

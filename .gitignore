@@ -1,0 +1,6 @@
+﻿recmem/.env
+.env
+recmem/.env
+__pycache__/
+*.pyc
+.venv/
